@@ -17,4 +17,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=esracbs&" alt="esracbs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esracbs&show_icons=true&locale=en" alt="esracbs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esracbs&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="esracbs" /></p>
+
