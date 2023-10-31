@@ -1,14 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Esra Cabas</h1>
-<h3 align="center">An intern web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esracbs&label=Profile%20views&color=0e75b6&style=flat" alt="esracbs" /> </p>
 
-- 🔭 I’m currently working on [BlogProject](https://github.com/esracbs/BlogProject)
 
 - 📫 How to reach me **ecabas01@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
